@@ -13,4 +13,5 @@ int main(int argc, char* argv[])
 	   omp_get_thread_num());
   }
   /* Ending of parallel region */
+return(0);
 }
